@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71727360827",
+    "project_id": "nullshop",
+    "storage_bucket": "nullshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71727360827:android:9f09b6857b8c5fde34e51e",
+        "android_client_info": {
+          "package_name": "com.nullteam.null_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71727360827-i85qfjimganbevavd6p3d68tm1l4s79u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIOpQPSLiNNEOQZXIHvclIfsOhQbOyjII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71727360827-i85qfjimganbevavd6p3d68tm1l4s79u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
